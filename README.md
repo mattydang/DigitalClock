@@ -17,10 +17,7 @@ Used for styling of clock container, the time display, and inputting a backgroun
 
 
 ## Views of Project
-<img width="1440" alt="Screenshot 2024-12-01 at 6 23 32 PM" src="https://github.com/user-attachments/assets/0c09c985-6c49-4b32-ba0b-e8f78bd69e1a">
-<img width="1440" alt="Screenshot 2024-12-01 at 6 23 42 PM" src="https://github.com/user-attachments/assets/ed99e13d-4219-4be4-9067-d3f4f4054499">
-<img width="1440" alt="Screenshot 2024-12-01 at 6 23 49 PM" src="https://github.com/user-attachments/assets/8832fa79-1e88-4352-8109-e845fbcceae2">
-
+<img width="1440" alt="Screenshot 2024-12-01 at 6 16 23 PM" src="https://github.com/user-attachments/assets/26eadd58-436f-4675-a9db-0db635d92375">
 
 ## Author
 - [Anh Vu Dang](https://github.com/mattydang)
